@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://wi.wallpapertip.com/wsimgs/5-55895_wallpaper-of-anime-l-death-note-background-hd.jpg" height="160px" width="160px"></p>
+<p align="center"> <img src="https://wi.wallpapertip.com/wsimgs/5-55895_wallpaper-of-anime-l-death-note-background-hd.jpg"></p>
 
 <h1 align="center">Hi there, I'm <a href="https://www.facebook.com/hash.intelligence/"  target="_blank">Umer</a> 👋</h1>
     
