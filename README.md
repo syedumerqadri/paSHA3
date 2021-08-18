@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://www.facebook.com/hash.intelligence/"  target="_blank">Umer</a> 👋</h1>
     
-<h3 align="center">Muslim | Philosopher | Hacker | MMA</h3>
+<h3 align="center">So called Hacker trying to code...</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedumerqadri&style=flat&color=blueviolet" /> </p>
 
 ## 🔧 Technologies & Tools
